@@ -92,6 +92,3 @@ span {
     transform: translateZ(30px);
 }
 
-.clock:hover {
-    transform: rotatey(180deg);
-}
