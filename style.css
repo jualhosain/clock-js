@@ -92,3 +92,27 @@ span {
     transform: translateZ(30px);
 }
 
+.number3 span {
+    transform: rotate(267deg) translateY(-18px);
+}
+.number4 span {
+    transform: rotate(166deg) translateY(-22px);
+}
+.number5 span {
+    transform: rotate(166deg) translateY(-22px);
+}
+
+.number6 span {
+    transform: rotate(174deg) translateY(-5px);
+}
+
+.number7 span {
+    transform: rotate(166deg) translateY(-22px);
+}
+
+.number8 span {
+    transform: rotate(166deg) translateY(-5px);
+}
+.number9 span {
+    transform: rotate(87deg) translateY(-5px);
+}
