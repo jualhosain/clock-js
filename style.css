@@ -1,5 +1,5 @@
 *{ margin: 0; padding:0; box-sizing:border-box;}
-body{font-family: arial black;
+body{font-family: 'Enriqueta', serif;
    background: linear-gradient(to left,rgb(46, 255, 186),rgba(43, 173, 215,1));
   display: grid;
   place-content:center;
